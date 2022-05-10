@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "home.html",
+    "currentPage": "httpx-data.plhome.html#header13-khttpx-data.plhome.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1005,7 +1005,7 @@
         }
       ]
     },
-    "home.html": {
+    "httpx-data.plhome.html#header13-khttpx-data.plhome.html": {
       "settings": {
         "main": true,
         "title": "X-data.pl",
